@@ -1,2 +1,2 @@
-# Go-Exercise
-excieses for Go
+# Go-Exercise 
+excieses for Go by NiNiNi
